@@ -14,5 +14,3 @@ This Is A Modified Version Of Polars Utilla To Make it Work Better And It Gets U
 **Links**
 Modding Server: https://discord.gg/monkemod
 Polars Server: https://discord.gg/2uuzbmMNmy
-
-- fozogt <3
